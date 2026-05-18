@@ -70,25 +70,25 @@ Dataset File:
 
 # 📷 Project Screenshots
 
-### Monthly Revenue Trend
+### Top Selling Products
 ![Figure1](Screenshots/Figure1.png)
 
-### Top Selling Products
+### Category-wise Sales
 ![Figure2](Screenshots/Figure2.png)
 
-### Category-wise Sales
+### Region-wise Profit Analysis
 ![Figure3](Screenshots/Figure3.png)
 
-### Region-wise Profit Analysis
+### Ship Mode Analysis
 ![Figure4](Screenshots/Figure4.png)
 
-### Ship Mode Analysis
+### Customer Segment Analysis
 ![Figure5](Screenshots/Figure5.png)
 
-### Customer Segment Analysis
+### Correlation Heatmap
 ![Figure6](Screenshots/Figure6.png)
 
-### Correlation Heatmap
+### Monthly Revenue Trend
 ![Figure7](Screenshots/Figure7.png)
 
 ---
