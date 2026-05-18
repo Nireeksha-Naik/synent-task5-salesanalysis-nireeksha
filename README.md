@@ -1,4 +1,6 @@
 # 📊 Sales Data Analysis
+##❓ **Problem Statement**
+Businesses generate large amounts of sales data every day, but extracting meaningful insights from that data can be challenging.
 
 ## 📌 Project Overview
 This project focuses on analyzing Superstore sales data to identify revenue trends, profit insights, customer behavior, and overall business performance using Python and data visualization techniques.
